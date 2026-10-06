@@ -9,7 +9,7 @@
 Send a message with a refundable USDC bond. The recipient is paid only if they answer.<br/>
 If they don't, every cent comes back to you. Spam gets expensive. Real messages get read.
 
-[**Live app**](__SITE_URL__) · [**Contract on Arcscan**](https://explorer.arc.io/address/__CONTRACT__) · [MIT licensed](LICENSE)
+[**Live app**](https://postage-arc.vercel.app) · [**Contract on Arcscan**](https://explorer.arc.io/address/0x82c020284837FD2b53893b75aAd5c59723fa941F) · [MIT licensed](LICENSE)
 
 </div>
 
@@ -77,9 +77,9 @@ A 50-cent bond only works if the fee is not 50 cents. Postage depends on propert
 | | |
 | --- | --- |
 | Network | Arc mainnet, chain ID `5042`, RPC `https://rpc.mainnet.arc.io` |
-| Contract | [`__CONTRACT__`](https://explorer.arc.io/address/__CONTRACT__) |
-| Deploy tx | [`__TX__`](https://explorer.arc.io/tx/__TX__) |
-| App | __SITE_URL__ |
+| Contract | [`0x82c020284837FD2b53893b75aAd5c59723fa941F`](https://explorer.arc.io/address/0x82c020284837FD2b53893b75aAd5c59723fa941F) |
+| Deploy tx | [`0xc73639f7db6e29b83f606b8a5277513e8fb3c8a5bbb459c713b912f47e2f1ed1`](https://explorer.arc.io/tx/0xc73639f7db6e29b83f606b8a5277513e8fb3c8a5bbb459c713b912f47e2f1ed1) |
+| App | https://postage-arc.vercel.app |
 
 ## Run it locally
 
