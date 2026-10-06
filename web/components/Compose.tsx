@@ -74,7 +74,7 @@ export function Compose({ initialTo = "", lockTo = false, onSent }: { initialTo?
   if (sent)
     return (
       <div className="paper-card relative overflow-hidden p-8 text-center">
-        <div className="thump mx-auto mb-4 inline-block -rotate-12 rounded-md border-4 border-stamp px-5 py-2 font-serif text-3xl font-bold uppercase tracking-widest text-stamp">
+        <div className="thump mx-auto mb-8 mt-2 inline-block -rotate-12 rounded-md border-4 border-stamp px-5 py-2 font-serif text-3xl font-bold uppercase tracking-widest text-stamp">
           Posted
         </div>
         <h3 className="font-serif text-2xl font-semibold">Your letter is on its way</h3>
